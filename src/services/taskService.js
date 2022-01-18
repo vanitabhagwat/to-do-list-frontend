@@ -1,6 +1,6 @@
 import axios from 'axios';
-//const apiUrl = "https://art-to-do-app.herokuapp.com/api/tasks/api/tasks";
-const apiUrl = "http://localhost:8080/api/tasks";
+const apiUrl = "https://art-to-do-app.herokuapp.com/api/tasks/api/tasks";
+//const apiUrl = "http://localhost:8080/api/tasks";
 
 
 export function getTasks(){
